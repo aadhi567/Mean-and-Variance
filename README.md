@@ -1,8 +1,8 @@
 # EX NO:1  Mean and variance of a discrete  distribution
 
-# Name : AADHITHAN B
-# Reg no: 212224040001
-# Date : 04/03/2025
+ Name : AADHITHAN B
+ Reg no: 212224040001
+ Date : 04/03/2025
 
 
 # Aim : 
